@@ -1,0 +1,3 @@
+Se crea API REST.
+
+La API ahora usa autenticación.
